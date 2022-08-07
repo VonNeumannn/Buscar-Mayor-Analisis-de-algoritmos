@@ -1,0 +1,8 @@
+D:\Estudio\TEC 2022\II Semestre\Analisis de algoritmos\Visual\Tarea 1\Tarea 1\bin\Debug\Tarea 1.exe.config
+D:\Estudio\TEC 2022\II Semestre\Analisis de algoritmos\Visual\Tarea 1\Tarea 1\bin\Debug\Tarea 1.exe
+D:\Estudio\TEC 2022\II Semestre\Analisis de algoritmos\Visual\Tarea 1\Tarea 1\bin\Debug\Tarea 1.pdb
+D:\Estudio\TEC 2022\II Semestre\Analisis de algoritmos\Visual\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.AssemblyReference.cache
+D:\Estudio\TEC 2022\II Semestre\Analisis de algoritmos\Visual\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.SuggestedBindingRedirects.cache
+D:\Estudio\TEC 2022\II Semestre\Analisis de algoritmos\Visual\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.CoreCompileInputs.cache
+D:\Estudio\TEC 2022\II Semestre\Analisis de algoritmos\Visual\Tarea 1\Tarea 1\obj\Debug\Tarea 1.exe
+D:\Estudio\TEC 2022\II Semestre\Analisis de algoritmos\Visual\Tarea 1\Tarea 1\obj\Debug\Tarea 1.pdb
